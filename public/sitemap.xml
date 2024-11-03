@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/imprint/</loc>
+    <loc>https://www.systematis.ch/imprint/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://www.systematis.ch/privacy/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.systematis.ch/about/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/bot/</loc>
+    <loc>https://www.systematis.ch/tags/bot/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.systematis.ch/categories/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.systematis.ch/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/docker/</loc>
+    <loc>https://www.systematis.ch/tags/docker/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/homelab/</loc>
+    <loc>https://www.systematis.ch/tags/homelab/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/monitoring-kuma-tele/</loc>
+    <loc>https://www.systematis.ch/posts/monitoring-kuma-tele/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/monitoring/</loc>
+    <loc>https://www.systematis.ch/tags/monitoring/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/monitoring/</loc>
+    <loc>https://www.systematis.ch/categories/monitoring/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/networking/</loc>
+    <loc>https://www.systematis.ch/tags/networking/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://www.systematis.ch/posts/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.systematis.ch/tags/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/telegram/</loc>
+    <loc>https://www.systematis.ch/tags/telegram/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/uptime-kuma/</loc>
+    <loc>https://www.systematis.ch/tags/uptime-kuma/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url>
 </urlset>
