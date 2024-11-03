@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dings on systematis.ch</title>
+    <link>https://www.systematis.ch/</link>
+    <description>Recent content in dings on systematis.ch</description>
+    <image>
+      <title>systematis.ch</title>
+      <url>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.systematis.ch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imprint</title>
+      <link>https://www.systematis.ch/imprint/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.systematis.ch/imprint/</guid>
+      <description>English version: Contact details: Johannes Pusch
+Hebbelplatz 14
+01157 Dresden
+Germany
+johannes DOT pusch AT gmx DOT de
+Please use e-mails to contact me.
+Disclaimer: This website is for informational purposes only. While we aim to keep the information up-to-date, we are not liable for any errors.
+Deutsche Version: Kontaktinformationen: Johannes Pusch
+Hebbelplatz 14
+01157 Dresden
+Germany
+johannes DOT pusch AT gmx DOT de
+Bitte nutzen Sie E-mails zur Kontaktaufnahme.</description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://www.systematis.ch/privacy/</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.systematis.ch/privacy/</guid>
+      <description>1. Introduction We take the protection of your personal data seriously and are committed to providing transparency regarding how we collect, use, and protect your data. This policy explains how we handle your data when you visit our website.
+2. Data Controller Please find contact information in the Imprint
+3. Use of Cookies Our website uses cookies to improve your browsing experience and for analytical purposes. Cookies are small text files stored on your device that allow us to recognize you on future visits and optimize our website.</description>
+    </item>
+    <item>
+      <title>Monitor your homelab and get notified by Telegram!</title>
+      <link>https://www.systematis.ch/posts/monitoring-kuma-tele/</link>
+      <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/monitoring-kuma-tele/</guid>
+      <description>This is a detailed guide on setting up Uptime Kuma using Docker and configuring a Telegram bot to receive notifications when monitored URLs go down or have issues.
+Setup time: 15 minutes (assuming prerequisites are met)
+Uptime Kuma is an open-source monitoring tool for tracking uptime and receiving notifications when websites, APIs, or other services go offline. Paired with a Telegram bot, you can receive instant notifications on your phone or desktop.</description>
+    </item>
+  </channel>
+</rss>
