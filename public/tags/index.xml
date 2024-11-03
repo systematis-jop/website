@@ -2,64 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on systematis.ch</title>
-    <link>https://www.systematis.ch/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on systematis.ch</description>
     <image>
       <title>systematis.ch</title>
-      <url>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2024 23:00:50 +0200</lastBuildDate>
-    <atom:link href="https://www.systematis.ch/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bot</title>
-      <link>https://www.systematis.ch/tags/bot/</link>
+      <link>http://localhost:1313/tags/bot/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/bot/</guid>
+      <guid>http://localhost:1313/tags/bot/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>https://www.systematis.ch/tags/docker/</link>
+      <link>http://localhost:1313/tags/docker/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/docker/</guid>
+      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelab</title>
-      <link>https://www.systematis.ch/tags/homelab/</link>
+      <link>http://localhost:1313/tags/homelab/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/homelab/</guid>
+      <guid>http://localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>Monitoring</title>
-      <link>https://www.systematis.ch/tags/monitoring/</link>
+      <link>http://localhost:1313/tags/monitoring/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/monitoring/</guid>
+      <guid>http://localhost:1313/tags/monitoring/</guid>
       <description></description>
     </item>
     <item>
       <title>Networking</title>
-      <link>https://www.systematis.ch/tags/networking/</link>
+      <link>http://localhost:1313/tags/networking/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/networking/</guid>
+      <guid>http://localhost:1313/tags/networking/</guid>
       <description></description>
     </item>
     <item>
       <title>Telegram</title>
-      <link>https://www.systematis.ch/tags/telegram/</link>
+      <link>http://localhost:1313/tags/telegram/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/telegram/</guid>
+      <guid>http://localhost:1313/tags/telegram/</guid>
       <description></description>
     </item>
     <item>
       <title>Uptime Kuma</title>
-      <link>https://www.systematis.ch/tags/uptime-kuma/</link>
+      <link>http://localhost:1313/tags/uptime-kuma/</link>
       <pubDate>Fri, 23 Aug 2024 23:00:50 +0200</pubDate>
-      <guid>https://www.systematis.ch/tags/uptime-kuma/</guid>
+      <guid>http://localhost:1313/tags/uptime-kuma/</guid>
       <description></description>
     </item>
   </channel>
