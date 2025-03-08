@@ -11,8 +11,24 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Aug 2024 23:00:50 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 23:00:50 +0200</lastBuildDate>
     <atom:link href="https://www.systematis.ch/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible Server Patching utilizing Ansible Vault</title>
+      <link>https://www.systematis.ch/posts/homelab-patching-ansible/</link>
+      <pubDate>Fri, 07 Mar 2025 23:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/homelab-patching-ansible/</guid>
+      <description>This quick guide shows how to use an Ansible playbook to patch a bunch of servers. This approach still is not fully automated, as it needs user input for the execution and provision of secrets from ansible-vault.
+Prerequisites Ansible installed: Make sure Ansible is installed on the machine that will run the playbook. If you are on MacOS like me, just use brew install ansible. Vault setup: Install and configure Ansible Vault for handling sensitive data.</description>
+    </item>
+    <item>
+      <title>Routing Traffic Through a VPN Container</title>
+      <link>https://www.systematis.ch/posts/erx-vpn-routing/</link>
+      <pubDate>Fri, 07 Mar 2025 23:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/erx-vpn-routing/</guid>
+      <description>My IP was blocked from Growatt&amp;rsquo;s servers recently, because I started fetching my own data from them. This didn&amp;rsquo;t make sense to me, but anyways. I can&amp;rsquo;t change my public IP and it&amp;rsquo;s only rotated every once in a while. This meant I had to be creative.
+In this post, we’ll walk through setting up a Proxmox Linux container (CT) to run WireGuard with a Mullvad configuration and then configuring an EdgeRouter X to force specific devices’ traffic through that VPN container.</description>
+    </item>
     <item>
       <title>Monitor your homelab and get notified by Telegram!</title>
       <link>https://www.systematis.ch/posts/monitoring-kuma-tele/</link>

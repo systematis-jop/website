@@ -5,16 +5,20 @@ theme: 'PaperMod'
 
 menu:
   main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 5
     - identifier: about
-      name: about
+      name: About
       url: /about/
-      weight: 10
+      weight: 31
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 20
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 30
     - identifier: github
@@ -83,6 +87,8 @@ params:
     buttons:
       - name: Posts
         url: posts
+      - name: Categories
+        url: categories
       - name: Tags
         url: tags
       - name: About

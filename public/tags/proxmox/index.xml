@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Proxmox on systematis.ch</title>
+    <link>https://www.systematis.ch/tags/proxmox/</link>
+    <description>Recent content in Proxmox on systematis.ch</description>
+    <image>
+      <title>systematis.ch</title>
+      <url>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Mar 2025 23:00:50 +0200</lastBuildDate>
+    <atom:link href="https://www.systematis.ch/tags/proxmox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Routing Traffic Through a VPN Container</title>
+      <link>https://www.systematis.ch/posts/erx-vpn-routing/</link>
+      <pubDate>Fri, 07 Mar 2025 23:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/erx-vpn-routing/</guid>
+      <description>My IP was blocked from Growatt&amp;rsquo;s servers recently, because I started fetching my own data from them. This didn&amp;rsquo;t make sense to me, but anyways. I can&amp;rsquo;t change my public IP and it&amp;rsquo;s only rotated every once in a while. This meant I had to be creative.
+In this post, we’ll walk through setting up a Proxmox Linux container (CT) to run WireGuard with a Mullvad configuration and then configuring an EdgeRouter X to force specific devices’ traffic through that VPN container.</description>
+    </item>
+  </channel>
+</rss>

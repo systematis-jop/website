@@ -2,6 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.systematis.ch/tags/ansible/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/posts/homelab-patching-ansible/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/automation/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/edgerouter/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/homelab/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/linux/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/linux/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/lxc/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/mullvad/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/networking/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/networking/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/posts/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/proxmox/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/posts/erx-vpn-routing/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/categories/security/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/vpn/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/wireguard/</loc>
+    <lastmod>2025-03-07T23:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/posts/ansible-vault-setup/</loc>
+    <lastmod>2024-11-04T22:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/automation/</loc>
+    <lastmod>2024-11-04T22:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/homelab/</loc>
+    <lastmod>2024-11-04T22:00:50+02:00</lastmod>
+  </url><url>
+    <loc>https://www.systematis.ch/tags/security/</loc>
+    <lastmod>2024-11-04T22:00:50+02:00</lastmod>
+  </url><url>
     <loc>https://www.systematis.ch/imprint/</loc>
     <lastmod>2024-10-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,16 +83,10 @@
     <loc>https://www.systematis.ch/tags/bot/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
-    <loc>https://www.systematis.ch/categories/</loc>
-    <lastmod>2024-08-23T23:00:50+02:00</lastmod>
-  </url><url>
     <loc>https://www.systematis.ch/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
     <loc>https://www.systematis.ch/tags/docker/</loc>
-    <lastmod>2024-08-23T23:00:50+02:00</lastmod>
-  </url><url>
-    <loc>https://www.systematis.ch/tags/homelab/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
     <loc>https://www.systematis.ch/posts/monitoring-kuma-tele/</loc>
@@ -33,15 +96,6 @@
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
     <loc>https://www.systematis.ch/categories/monitoring/</loc>
-    <lastmod>2024-08-23T23:00:50+02:00</lastmod>
-  </url><url>
-    <loc>https://www.systematis.ch/tags/networking/</loc>
-    <lastmod>2024-08-23T23:00:50+02:00</lastmod>
-  </url><url>
-    <loc>https://www.systematis.ch/posts/</loc>
-    <lastmod>2024-08-23T23:00:50+02:00</lastmod>
-  </url><url>
-    <loc>https://www.systematis.ch/tags/</loc>
     <lastmod>2024-08-23T23:00:50+02:00</lastmod>
   </url><url>
     <loc>https://www.systematis.ch/tags/telegram/</loc>

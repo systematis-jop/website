@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ansible on systematis.ch</title>
+    <link>https://www.systematis.ch/tags/ansible/</link>
+    <description>Recent content in Ansible on systematis.ch</description>
+    <image>
+      <title>systematis.ch</title>
+      <url>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://www.systematis.ch/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Mar 2025 23:00:50 +0200</lastBuildDate>
+    <atom:link href="https://www.systematis.ch/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible Server Patching utilizing Ansible Vault</title>
+      <link>https://www.systematis.ch/posts/homelab-patching-ansible/</link>
+      <pubDate>Fri, 07 Mar 2025 23:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/homelab-patching-ansible/</guid>
+      <description>This quick guide shows how to use an Ansible playbook to patch a bunch of servers. This approach still is not fully automated, as it needs user input for the execution and provision of secrets from ansible-vault.
+Prerequisites Ansible installed: Make sure Ansible is installed on the machine that will run the playbook. If you are on MacOS like me, just use brew install ansible. Vault setup: Install and configure Ansible Vault for handling sensitive data.</description>
+    </item>
+    <item>
+      <title>Ansible Vault for Secure Credential Management!</title>
+      <link>https://www.systematis.ch/posts/ansible-vault-setup/</link>
+      <pubDate>Mon, 04 Nov 2024 22:00:50 +0200</pubDate>
+      <guid>https://www.systematis.ch/posts/ansible-vault-setup/</guid>
+      <description>While writing the blog post about homelab server patching with Ansible, I figured there is a need for setup instructions of ansible-vault. So, here&amp;rsquo;s a quick guide on setting up and using Ansible Vault to secure sensitive data, like become passwords, for use in playbooks. Obviously, Ansible needs to be installed for this.
+Step 1: Create a vault password file To streamline running the playbook without being prompted for a vault password every time:</description>
+    </item>
+  </channel>
+</rss>
